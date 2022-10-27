@@ -1,0 +1,22 @@
+.bg-image {
+  background-image: url(https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+  min-height: 60vh;
+}
+
+.bg-image1 {
+  background-image: url(https://images.unsplash.com/photo-1526415302530-ad8c7d818689?ixlib=rb-4.0.3&ixid=MnwxM[…]G90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80);
+  min-height: 50vh;
+}
+
+.logo-t {
+  transform: translateY(-1vh);
+}
+
+.man {
+  height: 375px;
+  width: 300px;
+}
+
+.bg-row {
+  background-color: #FAF2DD;
+}
